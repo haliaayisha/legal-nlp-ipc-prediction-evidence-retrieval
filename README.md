@@ -80,4 +80,6 @@ This project is intended for academic and research purposes. Its predictions are
 ## Disclaimer
 This project is intended for academic and research purposes. Predictions should not be considered professional legal advice.
 
+## Gradio Web Application
 
+![Legal NLP Gradio Interface](Screenshot%202026-11-14%20155827.png)
