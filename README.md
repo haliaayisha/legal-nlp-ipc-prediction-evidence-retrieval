@@ -82,4 +82,4 @@ This project is intended for academic and research purposes. Predictions should 
 
 ## Gradio Web Application
 
-![Legal NLP Gradio Interface](Screenshot%202026-11-14%20155827.png)
+![Legal NLP Gradio Interface](Gradio_Interface.png)
