@@ -44,6 +44,4 @@ Evaluation metrics include accuracy, precision, recall, and F1-score.
 ## Disclaimer
 This project is intended for academic and research purposes. Predictions should not be considered professional legal advice.
 
-## Gradio Web Application
 
-![Legal NLP Gradio Interface](screenshots/gradio_interface.png)
